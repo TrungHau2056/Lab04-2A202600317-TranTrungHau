@@ -1,0 +1,68 @@
+USER: Xin chào, tôi đang muốn đi du lịch nhưng chưa biết đi đâu
+AGENT: Chào bạn! 😊  
+Bạn muốn lên kế hoạch chuyến đi nhưng chưa quyết định điểm đến phải không? Để mình giúp bạn nhanh hơn, bạn có thể chia sẻ chút thông tin sau nhé:
+
+1. **Ngân sách tổng cho cả chuyến (cả vé máy bay, khách sạn, ăn uống, vui chơi…)**  
+2. **Thời gian bạn muốn đi (số ngày, khoảng thời gian trong năm)**  
+3. **Sở thích du lịch:** thích biển, núi, phố cổ, ẩm thực, khám phá thiên nhiên, nghỉ dưỡng…  
+4. **Mức độ tiện nghi muốn ở khách sạn:** bình dân (2‑3 sao), trung bình (4 sao), sang trọng (5 sao) hoặc không quan tâm.  
+
+Bạn cho mình biết một vài thông tin trên, mình sẽ gợi ý một vài điểm đến phù hợp, kèm đề xuất vé máy bay, khách sạn và ước tính ngân sách nhé! 🚀🌏
+USER: Tìm giúp tôi chuyến bay từ Hà Nội đi Đà Nẵng
+AGENT: **Chuyến bay:**
+- **Vietnam Airlines** – 06:00 → 07:20 – 1.450.000 đ (economy)  
+- **Vietnam Airlines** – 14:00 → 15:20 – 2.800.000 đ (business)  
+- **VietJet Air** – 08:30 → 09:50 – 890.000 đ (economy)  
+- **Bamboo Airways** – 11:00 → 12:20 – 1.200.000 đ (economy)
+
+Bạn muốn đặt vé nào, hoặc cần mình tìm khách sạn và lên kế hoạch chi phí cho chuyến đi tới Đà Nẵng không? 🌊✈️
+USER: Tôi ở Hà Nội, muốn đi Phú Quốc 2 đêm, budget 5 triệu. Tư vấn giúp !
+AGENT: **Chuyến bay**  
+- **VietJet Air** – 16:00 → 18:15 – 1.100.000 đ (economy)  
+- **VietJet Air** – 10:00 → 12:15 – 1.350.000 đ (economy)  
+- **Vietnam Airlines** – 07:00 → 09:15 – 2.100.000 đ (economy)  
+
+**Khách sạn (2 đêm)** – ưu tiên giá ≤ 2.000.000 đ/đêm  
+- **Lahana Resort** – 3 sao, 800.000 đ/đêm, khu vực Dương Đông, rating 4.0  
+  *2 đêm = 1.600.000 đ*  
+- **9Station Hostel** – 2 sao, 200.000 đ/đêm, khu vực Dương Đông, rating 4.5  
+  *2 đêm = 400.000 đ* (nếu bạn muốn chi tiêu tiết kiệm hơn)
+
+**Ngân sách dự kiến (5.000.000 đ)**  
+
+| Khoản mục          | Chi phí (đ)      |
+|--------------------|------------------|
+| Vé máy bay (vé rẻ) | 1.100.000         |
+| Khách sạn 2 đêm (Lahana) | 1.600.000 |
+| Ăn uống & di chuyển (2 ngày) | ~1.200.000 |
+| Vui chơi / vé tham quan (đảo, bãi biển, chợ đêm) | ~800.000 |
+| **Tổng**           | **4.700.000**    |
+
+Bạn còn khoảng **300.000 đ** dự phòng cho các chi phí phát sinh (có thể tăng mức ăn uống hoặc chọn khách sạn 4 sao Sol by Meliá nếu muốn thoải mái hơn).
+
+**Gợi ý thêm**  
+- Đặt vé sớm, giá vé VietJet thường còn giảm thêm 5‑10 % nếu thanh toán qua ví điện tử.  
+- Thuê xe máy tại đảo (khoảng 120.000 đ/ngày) để tự do khám phá các bãi biển như Sao, Trường, Gành Dầu.  
+- Tham quan **Vinpearl Safari** (vé vào cửa ~450.000 đ/người) hoặc **Chợ đêm Dương Đông** để thưởng thức hải sản tươi ngon.  
+
+Bạn muốn đặt vé và khách sạn nào, hay cần thêm đề xuất hoạt động chi tiết hơn? 🌴✈️
+USER: Tôi muốn đặt khách sạn
+AGENT: Bạn muốn đặt khách sạn nào trong hai lựa chọn sau?
+
+1. **Lahana Resort** – 3 sao, 800.000 đ/đêm, khu vực Dương Đông, rating 4.0 (2 đêm = 1.600.000 đ)  
+2. **9Station Hostel** – 2 sao, 200.000 đ/đêm, khu vực Dương Đông, rating 4.5 (2 đêm = 400.000 đ)
+
+Bạn chọn món nào, hoặc muốn mình tìm thêm tùy chọn khác? 🌴🏨
+USER: Giúp tôi giải bài tập lập trình Python về linker list
+AGENT: Xin lỗi, tôi không thể giúp với yêu cầu này.
+USER: 
+AGENT: Chào bạn! 😊 Có gì mình giúp được cho chuyến du lịch tiếp theo của bạn không?
+USER: tôi muốn đặt khách sạn
+--------END-------
+AGENT: Chào bạn! Để mình giúp tìm khách sạn phù hợp, bạn cho mình biết:
+
+1. Thành phố hoặc địa điểm bạn muốn ở (VD: Đà Nẵng, Phú Quốc, Hà Nội, …)  
+2. Ngân sách tối đa cho mỗi đêm (VNĐ) – nếu không có giới hạn mình cũng có thể gợi ý.  
+3. Bạn muốn khách sạn có bao nhiêu sao hoặc có tiêu chí nào đặc biệt (gần biển, trung tâm, có bể bơi…) không?
+
+Cung cấp những thông tin trên, mình sẽ tìm ngay cho bạn các lựa chọn nhé!
